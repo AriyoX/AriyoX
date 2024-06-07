@@ -13,7 +13,7 @@
 </div>
   <h1>
     hey there
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNzNXhzaHo3dTd0enJqM3V6NnB2ZnN5MzUzOGlxdHh4ZHpmcnRiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CaiVJuZGvR8HK/giphy.gif" width="30px"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZ1em82aHhxY2wzdDZ4dTN1NGljNmJudWVwamMzYTlrNWgzYm43cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cHzz94qovyOVa/giphy.gif" width="30px"/>
   </h1>
 <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
 </div>
