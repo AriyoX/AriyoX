@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/AriyoAdventures">
-    <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=X" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=none" alt="X Badge"/>
   </a>
 </div>
 
