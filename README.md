@@ -23,7 +23,7 @@ I am a Ugandan Software Engineer.
 - :telescope: Currently I am a student at Makerere University and working as a Software Developer Intern.
 - :seedling: Thinking of gettings into blogs and content creation.
 - :zap: In my free time, I do Japanese lessons, play video games, read tech articles and work on personal projects.
-- :mailbox: Reach me using <a href="ahumuzaariyo@gmail.com"><i class="fa-solid fa-envelope"></i>Gmail</a> or <a href="https://www.linkedin.com/in/ariyo-ahumuza/"><i class="fa-brands fa-linkedin"></i>Linked In</a>
+- :mailbox: Reach me using <a href="ahumuzaariyo@gmail.com">Gmail</a> or <a href="https://www.linkedin.com/in/ariyo-ahumuza/"><Linked In</a>
 
 
 
