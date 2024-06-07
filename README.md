@@ -1,7 +1,6 @@
-<div id="readMe" style="font-family: MonaLisa, Courier, Roboto Mono;">
-  <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4YTBjbHNhNzQxdWt3NzlsMzFnYW10ODBydjVtaXppeW9ldHJ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="180" height ="180"/>
-    <div id="badges">
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4YTBjbHNhNzQxdWt3NzlsMzFnYW10ODBydjVtaXppeW9ldHJ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="180" height ="180"/>
+  <div id="badges">
     <a href="https://www.linkedin.com/in/ariyo-ahumuza/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -13,10 +12,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
-   <h1 style="font-family: MonaLisa, Courier, Roboto Mono;">
+   <h1 style=>
     hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  </div>
 </div>
 
