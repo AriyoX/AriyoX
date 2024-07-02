@@ -12,18 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
-   <h1 style=>hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+   <h1 style=>hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/></h1>
 </div>
-
----
-
-### :man_technologist: About Me : 
-I am a Ugandan Software Engineer.
-
-- :telescope: Currently I am a student at Makerere University and working as a Software Developer Intern.
-- :seedling: Thinking of gettings into writing blogs and content creation.
-- :zap: In my free time, I do Japanese lessons, play video games, read tech articles and work on personal projects.
-- :mailbox: Reach me using <a href="ahumuzaariyo@gmail.com">Gmail</a> or <a href="https://www.linkedin.com/in/ariyo-ahumuza/">LinkedIn</a>
-
 
 
