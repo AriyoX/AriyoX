@@ -12,7 +12,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
-   <h1 style=>hello there!</h1>
 </div>
 
 
