@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4YTBjbHNhNzQxdWt3NzlsMzFnYW10ODBydjVtaXppeW9ldHJ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="180" height ="180"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c4YTBjbHNhNzQxdWt3NzlsMzFnYW10ODBydjVtaXppeW9ldHJ6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="720" height ="720"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/ariyo-ahumuza/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
-   <h1 style=>hello there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/></h1>
+   <h1 style=>hello there!</h1>
 </div>
 
 
