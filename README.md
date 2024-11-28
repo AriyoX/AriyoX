@@ -12,6 +12,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
+  <div>
+    <p>I <3 Code.</p>
+  </div>
 </div>
 
 
