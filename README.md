@@ -18,6 +18,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  [![ariyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariyox)](https://github.com/ariyox/github-readme-stats)
   <img src="https://komarev.com/ghpvc/?username=AriyoX&style=flat-square&color=blue" alt=""/>
 </div>
 
