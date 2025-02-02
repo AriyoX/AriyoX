@@ -52,13 +52,13 @@
     display: inline-block;
   ">
     <a href="https://www.linkedin.com/in/ariyo-ahumuza/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/mr.ariyo/">
-      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img src="[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)" alt="Instagram Badge"/>
     </a>
     <a href="https://twitter.com/ariyo_exe">
-      <img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white" alt="Twitter Badge"/>
+      <img src="[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)" alt="Twitter Badge"/>
     </a>
   </div>
 </div>
