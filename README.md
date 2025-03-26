@@ -42,23 +42,4 @@
       <path d="M240 20 L300 30" stroke="#000" stroke-width="2"/>
     </svg>
   </div>
-
-  <!-- Social badges in a paw-print style container -->
-  <div id="badges" style="
-    background: #fff5f8;
-    border-radius: 30px;
-    padding: 15px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    display: inline-block;
-  ">
-    <a href="https://www.linkedin.com/in/ariyo-ahumuza/">
-      <img src="[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/mr.ariyo/">
-      <img src="[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)" alt="Instagram Badge"/>
-    </a>
-    <a href="https://twitter.com/ariyo_exe">
-      <img src="[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)" alt="Twitter Badge"/>
-    </a>
-  </div>
 </div>
